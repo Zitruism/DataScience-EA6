@@ -10,10 +10,19 @@
 
     This course has 5 days & topics:
     
-    Day 1: Handling missing values https://www.kaggle.com/zitruism/day-1  
-    Day 2: Scaling and normalization https://www.kaggle.com/zitruism/day-2  
-    Day 3: Parsing dates https://www.kaggle.com/zitruism/day-3  
-    Day 4: Character encodings https://www.kaggle.com/zitruism/day-4  
-    Day 5: Inconsistent Data Entry https://www.kaggle.com/zitruism/day-5  
+    Day 1: Handling missing values  
+    Day 2: Scaling and normalization  
+    Day 3: Parsing dates  
+    Day 4: Character encodings  
+    Day 5: Inconsistent Data Entry  
     
     Fork this course, solve all "your turn!"s and earn 5 points for each part!
+    
+## Solutions
+1. The notebook can be found under the name 0CleanDataset.ipynb in the root of this repository.
+2. 
+    - Day 1:  https://www.kaggle.com/zitruism/day-1
+    - Day 2:  https://www.kaggle.com/zitruism/day-2    
+    - Day 3:  https://www.kaggle.com/zitruism/day-3  
+    - Day 4:  https://www.kaggle.com/zitruism/day-4    
+    - Day 5:  https://www.kaggle.com/zitruism/day-5  
